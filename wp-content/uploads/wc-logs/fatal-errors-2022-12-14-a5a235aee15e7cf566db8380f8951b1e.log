@@ -1,0 +1,63 @@
+2022-12-14T07:26:51+00:00 CRITICAL Uncaught Error: Call to undefined function Automattic\WooCommerce\Blocks\BlockTypes\wp_is_block_theme() in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php:168
+Stack trace:
+#0 C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(100): Automattic\WooCommerce\Blocks\BlockTypes\ProductImage->enqueue_data()
+#1 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_editor_assets('')
+#2 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\raijin\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\raijin\wp-admin\edit-form-blocks.php(252): do_action('enqueue_block_e...')
+#5 C:\xampp\htdocs\raijin\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php on line 168
+
+2022-12-14T07:27:05+00:00 CRITICAL Uncaught Error: Call to undefined function Automattic\WooCommerce\Blocks\BlockTypes\wp_is_block_theme() in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php:168
+Stack trace:
+#0 C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(100): Automattic\WooCommerce\Blocks\BlockTypes\ProductImage->enqueue_data()
+#1 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_editor_assets('')
+#2 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\raijin\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\raijin\wp-admin\edit-form-blocks.php(252): do_action('enqueue_block_e...')
+#5 C:\xampp\htdocs\raijin\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php on line 168
+
+2022-12-14T07:27:09+00:00 CRITICAL Uncaught Error: Call to undefined function Automattic\WooCommerce\Blocks\BlockTypes\wp_is_block_theme() in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php:168
+Stack trace:
+#0 C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(100): Automattic\WooCommerce\Blocks\BlockTypes\ProductImage->enqueue_data()
+#1 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_editor_assets('')
+#2 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\raijin\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\raijin\wp-admin\edit-form-blocks.php(252): do_action('enqueue_block_e...')
+#5 C:\xampp\htdocs\raijin\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php on line 168
+
+2022-12-14T07:29:04+00:00 CRITICAL Uncaught Error: Call to undefined function Automattic\WooCommerce\Blocks\BlockTypes\wp_is_block_theme() in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php:168
+Stack trace:
+#0 C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(100): Automattic\WooCommerce\Blocks\BlockTypes\ProductImage->enqueue_data()
+#1 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_editor_assets('')
+#2 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\raijin\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\raijin\wp-includes\class-wp-customize-widgets.php(873): do_action('enqueue_block_e...')
+#5 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): WP_Customize_Widgets->enqueue_scripts('')
+#6 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(32 in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php on line 168
+
+2022-12-14T07:29:10+00:00 CRITICAL Uncaught Error: Call to undefined function Automattic\WooCommerce\Blocks\BlockTypes\wp_is_block_theme() in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php:168
+Stack trace:
+#0 C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(100): Automattic\WooCommerce\Blocks\BlockTypes\ProductImage->enqueue_data()
+#1 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_editor_assets('')
+#2 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\raijin\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\raijin\wp-includes\class-wp-customize-widgets.php(873): do_action('enqueue_block_e...')
+#5 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): WP_Customize_Widgets->enqueue_scripts('')
+#6 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(32 in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php on line 168
+
+2022-12-14T07:29:20+00:00 CRITICAL Uncaught Error: Call to undefined function Automattic\WooCommerce\Blocks\BlockTypes\wp_is_block_theme() in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php:168
+Stack trace:
+#0 C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(100): Automattic\WooCommerce\Blocks\BlockTypes\ProductImage->enqueue_data()
+#1 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_editor_assets('')
+#2 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\raijin\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\raijin\wp-includes\class-wp-customize-widgets.php(873): do_action('enqueue_block_e...')
+#5 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(303): WP_Customize_Widgets->enqueue_scripts('')
+#6 C:\xampp\htdocs\raijin\wp-includes\class-wp-hook.php(32 in C:\xampp\htdocs\raijin\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductImage.php on line 168
+
